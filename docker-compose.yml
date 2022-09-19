@@ -1,0 +1,30 @@
+version: "2"
+services:
+  nest:
+    build: .
+    container_name: nest
+    depends_on:
+      - db
+    volumes:
+      - ./src:/app/src
+      - .env:/app/.env
+
+  nginx:
+    build:
+      context: .
+      dockerfile: Dockerfile-nginx
+    container_name: nest-nginx
+    depends_on:
+      - nest
+    environment:
+      - NGINX_SERVER_NAME=localhost
+      - NEST_HOST=nest
+      - NEST_PORT=8080
+      - NGINX_MAX_BODY=100M
+    ports:
+      - 80:80
+
+
+
+volumes:
+  mariadbdata:

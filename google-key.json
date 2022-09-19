@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "inspiring-lore-357817",
+  "private_key_id": "790283f0f3facd2b0ff0eb93aefab9e695ad41a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEivN2Znagv1YY\nu5/nZLn8WjeclRBoo529LAUGyXLiudhjLtTkuWH1jKmcWWaoNsqW1WPNCjXU/nfl\nW2/I31U2cBxXuF8+kK/DBQ4d8dtqhuoxw5Wtf+IenVDtlt5jUbvattWWDKKhNZ9O\nJrCw8GdQFapn0PPZm9kkR56ZCPS8KFJBxKp8Zgl+2HCitwrGYEHbt3GHDcLwvILz\nnaHTKluh4lt8QEIu+jfFx7USp0SvYzCbfxzU37g0bhe150jrfHzS2dgaNU15TW54\nl/KY5v34aLSDX41q6FU7Qgmth4LPJ7UaVRFO9bkO44g38ixb2gSMr4PIvzD/PE89\nrPzoaiD9AgMBAAECggEAEczh2u3RvaJGmmvXwh25yHSlR72qZEe5QApOFDzHdmhN\nhEIYDvUJPbN1Iw9nwEFiHMILzWSo1ncLhc6/s4oijhEeSAWPPrvc50U8b5LZg+7f\nJA2qLzH/WTV3QGVjE8yxvk/DzVism/wexvWzF/tV6AdmTQu8Ig++3U3NO9/3RlkZ\n2lk+yKz9N9L1CTPjOzbzP0Jst0w5GJqxABmhg6hHfHPWFLtKrQt+1l4Zh8SqWyL1\nFU2SkEbsstLa1h9z9pWkIOZ47vcB2I6luOFDHqPw8hiFpPT6Y7N1wEc9/yfsztE5\nBRwrEcDonec5d3pD3XzngcgCvj9C1D5DDUH+tZYxkwKBgQDqeoBrJWQG23of+lKe\nSxcJ3eAMm2VGdbBjv8T2hI33YywJDAG+WR9i6IVfQqVjPGVeoRiRfGGQuhzdZiPe\nBHhMbe8kB64CxITu8gUIuNG6bktfdUbqKP808GpPPTsyFwzYaC0CviP9CBLcCemy\nc/eUH5VVIOST8M479+peAaux9wKBgQDWlRSKIZnKXHRh3CFhagww4zj6RW/AveiT\n9xz7j2bLxPD/10m7nCOY8MzEME8UHUGnnOismwsa6opCvpiFUW+YjVjdi31x2Bty\nf8gSW3ntIFa/+dzjJbW9CgooRj/aKj98m9mYWU++y4oS6FMTrRCROAISQ8qb3r7Y\nfCrIJueHqwKBgQDATL9NIFkslotN9ooTcBnw6Zp6PGeOpa6H4Bq04nlbzmWq9cHo\nTkdDYtcfDRV+kWXBefUgPBX4D+rkWIRJ7PiMFgzuS64Wbv1mye3+/TRj5VjDbPc/\ny2eiDxng6qLFrcnHIYjomvAA8MIm26phxGHjhRN/wX41JmS9IdGAT3Z0eQKBgQCP\nIeQQe3c9D0ymVhKCCx3UokxITHbNpx9zS1suxam49EYZMb7CANWR19WOa/bjoNxB\ndJ2TPNw8eQP+n2nXS8nXhTkoljn37UHpryiCbjg3HuIerglUDrxaO08pLCq9WH7+\nnGqZf8F8sAIKuKNptYAejbB8BHIqZHsCplhXJ/Q6fwKBgC36UTEcq3jgQmPqnyUR\n6izW3/43vgpITtSUvhFkTnfU+fWQ+WyKs5T+CCwikWbfM6n4BOLWC5VkSf98LLqo\nhHM+8H6NurLBk6cBCV6qvN8QMCfLiiH733bYA6O+np8MXFicXdePonDshMYKfrfS\nQX95JCxS3AYYXc1jNsdmvyWK\n-----END PRIVATE KEY-----\n",
+  "client_email": "docaitest@inspiring-lore-357817.iam.gserviceaccount.com",
+  "client_id": "107446195355274853754",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/docaitest%40inspiring-lore-357817.iam.gserviceaccount.com"
+}
