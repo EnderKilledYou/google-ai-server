@@ -7,5 +7,5 @@ RUN set -ex && \
 	chmod +x /entrypoint-nginx.sh
 
 COPY ./docker/vhost.template /etc/nginx/conf.d/vhost.template
-
+ENV GOOGLE_APPLICATION_CREDENTIALS /app/google-key.json
 CMD ["/entrypoint-nginx.sh"]
