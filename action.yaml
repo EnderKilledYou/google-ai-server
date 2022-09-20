@@ -1,6 +1,0 @@
-name: 'ai-deploy'
-description: 'Document AI'
-runs:
-  using: 'docker'
-  image: 'Dockerfile'
-
