@@ -31,4 +31,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Build the Docker image
-        run: docker build . --file Dockerfile-prod --tag googleaiservernginx:$(date +%s)
+        run: docker build . --file Dockerfile-nginx --tag googleaiservernginx:$(date +%s)
